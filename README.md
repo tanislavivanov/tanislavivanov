@@ -1,15 +1,15 @@
-<h2>@tanislavivanov</h2>
+<h1>@tanislavivanov</h1>
 <p>Welcome to my GitHub profile!</p>
 
 - 👋 Hi, I’m Tanislav (@tanislavivanov)!
-- 👀 I’m interested in Web Development.
+- 👀 I’m developing for the Web.
 - #️⃣ I’m currently learning PHP and MySQL.
-- 💻 Currently building my own Search Engine.
-- 📫 Reach me on my email: lichen@tanislav.space
+- 💻 Currently building my own Search Engine and personal website.
+- 📫 Reach me on my email: contact@tanislav.online
 
 ---
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Github Statistics 📊
+<img src="https://media.giphy.com/media/HtSh6g7nm7MNc0xqxK/giphy.gif" height="12" width="25"> Github Statistics 📊
 <p align="center">
       <img
         height="160em"
@@ -23,8 +23,12 @@
 
 ---
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Upcoming Projects 📊
+<img src="https://media.giphy.com/media/HtSh6g7nm7MNc0xqxK/giphy.gif" height="12" width="25"> Upcoming Projects 📊
 * seaSearch
   - seaSearch Search Engine
   - seaConsole
   - seaImages
+
+* tanislavONLINE
+  - Online Website
+  - tanislavINTEL (updates channel)
