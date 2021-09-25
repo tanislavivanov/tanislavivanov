@@ -24,11 +24,14 @@
 ---
 
 <img src="https://media.giphy.com/media/HtSh6g7nm7MNc0xqxK/giphy.gif" height="12" width="25"> Upcoming Projects 📊
-* seaSearch
+* seaSearch (delayed until ???, ???)
   - seaSearch Search Engine
   - seaConsole
   - seaImages
 
-* tanislavONLINE
+* tanislavONLINE (delayed until October, 2021)
   - Online Website
   - tanislavINTEL (updates channel)
+
+* Centaur Control Panel (currently being worked on)
+  - Game Panel Manager for Pterodactyl
