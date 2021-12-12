@@ -2,10 +2,10 @@
 <p>Welcome to my GitHub profile!</p>
 
 - 👋 Hi, I’m Tanislav (@tanislavivanov)!
-- 👀 I’m developing for the Web.
-- #️⃣ I’m currently learning PHP and MySQL.
-- 💻 Currently building my own Search Engine and personal website.
-- 📫 Reach me on my email: contact@tanislav.online
+- 👀 I’m developing *mainly* for the Web.
+- #️⃣ I’m currently *okay* at PHP and MySQL / *LAMP Stack*. Recently expanded my abilities to **C#**!
+- 💻 forever bored. 
+- 📫 Reach me on my email: contact@tanislav.online *(responding within 7 business days)*
 
 ---
 
@@ -24,14 +24,6 @@
 ---
 
 <img src="https://media.giphy.com/media/HtSh6g7nm7MNc0xqxK/giphy.gif" height="12" width="25"> Upcoming Projects 📊
-* seaSearch (delayed until ???, ???)
-  - seaSearch Search Engine
-  - seaConsole
-  - seaImages
-
-* tanislavONLINE (delayed until October, 2021)
-  - Online Website
-  - tanislavINTEL (updates channel)
-
-* Centaur Control Panel (currently being worked on)
-  - Game Panel Manager for Pterodactyl
+* idrk, give me ideas on my email.
+* might do something fun idk
+* i am completely out of ideas. no, really.
