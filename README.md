@@ -13,14 +13,14 @@
 - 👋 Hi, I’m Tanislav (@tanislavivanov)!<br>
 - 👀 I am a Web and PWA developer.<br>
 - #️⃣ #PHPisSuperior; Mainly working with PHP, MySQL for backend and HTML, CSS and JS for frontend. <br>
-- 📫 Reach me on my email: contact@tanislav.online *(responding within 7 business days)*<br>
+- 📫 Reach me on my email: tanislavdev@abv.bg *(responding within 7 business days)*<br>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/tanislavivanov">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/tanislavivanov?style=social&label=@tanislavivanov">
 </a>
-<a href="mailto:contact@tanislav.online">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=contact@tanislav.online&color=whitesmoke&style=flat&logo=gmail" />
+<a href="mailto:tanislavdev@abv.bg">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=tanislavdev@abv.bg&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
 
