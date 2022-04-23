@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=github:+@tanislavivanov;email:+contact@tanislav.online;php+or+nothing&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=github:+@tanislavivanov;email:+tanislav@flareapps.eu;php+or+nothing&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <div align="center">
