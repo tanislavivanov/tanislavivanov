@@ -11,8 +11,8 @@
 
 <h2>:man_technologist: About me</h2>
 - 👋 Hi, I’m Tanislav (@tanislavivanov)!<br>
-- 👀 I am a Web and PWA developer.<br>
-- #️⃣ #PHPisSuperior; Mainly working with PHP, MySQL for backend and HTML, CSS and JS for frontend. <br>
+- 👀 I was a Web and PWA developer. Now mainly focused on mobile app development with Swift(UI).<br>
+- #️⃣ #PHPisSuperior; Mainly working with PHP, MySQL for backend and HTML, CSS and JS for frontend on web. <br>
 - 📫 Reach me on my email: tanislav@flareapps.eu *(responding within 7 business days)*<br>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -26,7 +26,7 @@
 
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="PHP" alt="php" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
-<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="Swift" alt="swift" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="MySQL" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
