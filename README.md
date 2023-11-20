@@ -13,7 +13,7 @@
 - 👋 Hi, I’m Tanislav (@tanislavivanov)!<br>
 - 👀 I was a Web and PWA developer. Now mainly focused on mobile app development with Swift(UI).<br>
 - #️⃣ #PHPisSuperior; Mainly working with PHP, MySQL for backend and HTML, CSS and JS for frontend on web. <br>
-- 📫 Reach me on my email: tanislav@flareapps.eu *(responding within 7 business days)*<br>
+- 📫 Reach me on my email: yourfriends@flareapps.eu *(responding within 7 business days)*<br>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/tanislavivanov">
