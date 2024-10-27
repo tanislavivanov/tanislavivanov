@@ -5,7 +5,7 @@
 
 
 <h2>:man_technologist: About me</h2>
-- 👋 Hi, I’m Tanislav! A 17-year old student from Panagyurishte, Bulgaria!<br>
+- 👋 Hi, I’m Tanislav! An 18-year old student from Panagyurishte, Bulgaria!<br>
 - 👀 Ex-web and PWA developer. Now mainly focused on iOS and Mac app development with Swift.<br>
 - 🛜 Studying Network Engineering and building my dream homelab <3.</br>
 
