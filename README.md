@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 👋 Hi, I’m **Tanislav**, an 18-year-old student from Panagyurishte, Bulgaria.  
+- 👋 Hi, I’m **Tanislav**, an 19-year-old student from Panagyurishte, Bulgaria.  
 - 📚 Currently studying **Telecommunications & Network Engineering** at **Technical University of Sofia**.  
 - 💻 Former **Web & PWA Developer**, now focused on building **iOS and macOS apps** with Swift.  
 - 🛜 Passionate about **networking, homelabs, and system design**.  
