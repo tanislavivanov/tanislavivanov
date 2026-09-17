@@ -1,51 +1,130 @@
-<div id="top"></div>
 <div align="center">
-    <a><img src="https://i.imgur.com/W0IaHE4.gif"></a>
+
+# `tanislavivanov`
+
+**software · systems · networking · apple platforms**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=6E56CF&center=true&vCenter=true&width=600&lines=building+things+that+live+between+software+%26+hardware;Swift+%7C+Linux+%7C+Networking+%7C+Self-hosting;curious+by+default." alt="Typing intro">
+
+<br>
+
+<a href="https://github.com/tanislavivanov">
+<img src="https://img.shields.io/github/followers/tanislavivanov?style=flat-square&logo=github&label=followers" alt="GitHub followers">
+</a>
+&nbsp;
+<a href="mailto:tanislavdev@gmail.com">
+<img src="https://img.shields.io/badge/email-contact-6E56CF?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 </div>
 
-<h2>👨‍💻 About Me</h2>
+---
 
-- 👋 Hi, I’m **Tanislav**, an 19-year-old student from Panagyurishte, Bulgaria.  
-- 📚 Currently studying **Telecommunications & Network Engineering** at **Technical University of Sofia**.  
-- 💻 Former **Web & PWA Developer**, now focused on building **iOS and macOS apps** with Swift.  
-- 🛜 Passionate about **networking, homelabs, and system design**.  
-- 🚀 Always exploring new technologies and working on projects that connect **software development with networking**.  
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## `whoami`
+
+I'm **Tanislav**, a Telecommunications student at the **Technical University of Sofia** and currently an **IBMer**.
+
+My background started with **web development**, but these days I'm mostly interested in **native Apple development, backend systems, networking, virtualization, and self-hosted infrastructure**.
+
+I like projects where the boundaries between software and infrastructure disappear.
+
+</td>
+
+<td width="45%" valign="top">
+
+```text
+┌─ ~/tanislav ───────────────┐
+│                            │
+│  role      developer       │
+│  field     telecom         │
+│  platform  apple           │
+│  shell     zsh             │
+│  editor    VS Code         │
+│  homelab   online          │
+│                            │
+└────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2>📫 How to Reach Me</h2>
-<a href="https://github.com/tanislavivanov">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/tanislavivanov?style=social&label=@tanislavivanov">
-</a>
-<a href="mailto:tanislavdev@gmail.com">
-    <img alt="Email" src="https://img.shields.io/static/v1?label&message=tanislavdev@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
-</a>
+## 🧪 Things I Like Building
+
+> **Software that solves a real problem is more interesting than software that only demonstrates a technology.**
+
+### `FLARE`
+
+A collection of projects exploring the intersection of **apps, APIs, infrastructure and everyday technology**.
+
+**FLARE Weather**
+A native weather experience backed by a custom weather platform.
+
+**Duo**
+A social platform built around a modern API architecture, PostgreSQL and self-hosted infrastructure.
+
+**PaS**
+An offline-first password manager focused on keeping sensitive data local.
+
+**Homelab projects**
+Self-hosted services, networking experiments, virtualization, monitoring and infrastructure automation.
 
 ---
 
-<h2>💡 Languages & Frameworks</h2>
-<code><img title="Swift" alt="Swift" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /></code>
-<code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
-<code><img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="C#" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-<code><img title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-<code><img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
+## 🧰 My Toolbox
 
----
+### Languages
 
-<h2>🛠️ Tools I Use</h2>
-<code><img title="macOS" alt="macOS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
-<code><img title="Ubuntu" alt="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="GitHub" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Atom" alt="Atom" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
-<code><img title="Linux" alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-
----
-
-<h2>💻 My Setup</h2>
-<p>MacBook Air M3</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub!;Always+learning,+always+building.&font=Fira%20Code&center=true&width=500&height=50">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="42" alt="Swift" title="Swift">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" title="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP" title="PHP">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" alt="C#" title="C#">
 </p>
+
+### Data & Infrastructure
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" title="MySQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" title="Node.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" title="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux" title="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="42" alt="Proxmox" title="Proxmox">
+</p>
+
+### Everyday Tools
+
+`macOS` · `Linux` · `Git` · `GitHub` · `VS Code` · `Proxmox` · `Docker`
+
+---
+
+## 🌐 Find Me
+
+<p>
+  <a href="https://github.com/tanislavivanov">
+    <img src="https://img.shields.io/badge/GitHub-tanislavivanov-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:tanislavdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### `stay curious. build things. break things. learn why.`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=tanislavivanov&style=flat-square&label=profile+views" alt="Profile views">
+
+</div>
